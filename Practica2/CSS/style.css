@@ -1,0 +1,12 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+header{
+     background: #cccccc;
+     width: 100%;
+     height: 20vh;
+     border: 4px solid #ffffff; 
+
+}
