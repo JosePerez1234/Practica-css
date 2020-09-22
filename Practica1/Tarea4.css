@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body{
+    background: url(./../Img/img9.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+   text-align: center;
+   padding: 50px 0px;
+   font-family: "Lobster";
+   color: rgba(4, 128, 133, 0.801);
+}
+
+h2{
+    text-align: center; 
+    color: rgba(4, 128, 133, 0.801);
+    font-family: "Lobster";
+}
+
+ul{
+    text-align: center;
+    color: rgba(14, 116, 175, 0.692);
+    font-family: "Lobster";
+
+}
